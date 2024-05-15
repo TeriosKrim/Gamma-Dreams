@@ -1,0 +1,15 @@
+This is how I have the Characters set up
+
+[Character][number] [Letter][emotion]
+
+
+
+Character name -> outfit -> pose -> Expressions
+
+
+
+
+Example:Maria 1A angry:Maria(Character) 1(Outfit) A(Pose) Angry(Emotion) 
+
+
+
