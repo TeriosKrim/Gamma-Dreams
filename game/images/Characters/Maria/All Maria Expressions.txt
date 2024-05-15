@@ -1,0 +1,24 @@
+1 = Default outfit
+
+A Both hands on hip
+B crossed arm
+C point up explaining
+
+
+Away
+Confuse
+Normal
+Fear
+Hurt 
+Smile
+Happy 
+Faint
+Shock
+
+----------------------
+In renpy
+
+maria = pose A
+maria2 = pose B
+maria3 = pose C
+

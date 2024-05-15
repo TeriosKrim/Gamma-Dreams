@@ -1,0 +1,14 @@
+1 Default outfit
+
+A arm crossed pose
+B one arm on hip
+C Explaining pose
+
+
+Normal
+think
+upset
+upsetl(Left)
+away
+happy
+
