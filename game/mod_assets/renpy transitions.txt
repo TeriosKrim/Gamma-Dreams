@@ -1,0 +1,8 @@
+movein moveout
+top bottom left right
+ease(cannot be used with sceneAKA backgrounds
+
+
+scenes
+push wipe slide slideway iris 
+left right up down

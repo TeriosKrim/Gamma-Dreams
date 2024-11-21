@@ -1,0 +1,8 @@
+endless loop for music
+
+python:
+        currentpos = get_pos()
+        startpos = currentpos - 0.3
+        if startpos < 0: startpos = 0
+        track = "<from " + str(startpos) + " to " + str(currentpos) + ">[track filename goes here]"
+        renpy.music.play(track, loop=True)
